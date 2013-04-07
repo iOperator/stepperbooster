@@ -23,7 +23,7 @@ x                  x
 x                  x
 STEP          CONFIG
 DIR               M1
-!ENBL             M2
+!ENBL             M0
 
 x = N/C
 </pre>
